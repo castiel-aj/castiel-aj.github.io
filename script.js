@@ -1,7 +1,11 @@
 var projects = document.getElementById("projects");
 var files = document.getElementById("files");
 var footer = document.getElementById("footer");
+var linksSection = document.createElement("div");
+linksSection.classList.add("links");
+footer.appendChild(linksSection);
 
+//createing the cards
 function createCards(data) {
   data.map((item) => {
     var description = document.createElement("p");
@@ -46,11 +50,12 @@ function createCards(data) {
   });
 }
 
+//creating the footer links
 function createLinks(data) {
-  data.map((item) => {
+  data?.map((item) => {
     var link = document.createElement("div");
-    var linkName = document.createElement("p");
     var linkTag = document.createElement("a");
+    var linkName = document.createElement("p");
 
     link.classList.add("link");
     linkName.classList.add("link-name");
@@ -61,13 +66,34 @@ function createLinks(data) {
     linkTag.appendChild(linkName);
     link.appendChild(linkTag);
 
-    footer.appendChild(link);
+    linksSection.appendChild(link);
   });
+}
+
+//creating the footer contact info
+function createContactInfo() {
+  var contacts = document.createElement("div");
+  var emailContact = document.createElement("a");
+  emailContact.setAttribute("href", "mailto:" + mainData.email);
+  emailContact.textContent = mainData.email;
+  var phoneContact = document.createElement("a");
+  phoneContact.setAttribute("href", "tel:" + mainData.phone);
+  phoneContact.textContent = mainData.phone;
+
+  contacts.classList.add("contacts");
+  emailContact.classList.add("contact");
+  phoneContact.classList.add("contact");
+
+  contacts.appendChild(emailContact);
+  contacts.appendChild(phoneContact);
+  footer.appendChild(contacts);
 }
 
 createCards(repoData);
 createLinks(links);
+createContactInfo();
 
+//setting the website title & website favicon
 var websiteTitle = document.getElementById("website-title");
 websiteTitle.textContent = mainData.name;
 
