@@ -43,4 +43,16 @@ var repoData = [
     tags: "radio, planning, operations, gsm, ict, telecommunications, vswr", //التاجات تبع المشروع بيطلعوا بالشكل #test #test2 #test3
     link: "https://github.com/castiel-aj/Insight-of-Telecommunication-in-Organizations", //رابط المشروع ضروري يبدا ب"https://"
   },
+
+
+ {
+    title: "SVU-BAIT-Courses-Summery", //عنوان المشروع
+    description:
+      " مخلص لعدد من مواد برنامج الإجازة في تقنة المعلومات الخاص بالجامعة الإفتراضية السورية", //لمحة بسيطة 15 كلمة عن المشروع بتقدر تكتب أكتر بس بصير بينقرا بصعوبة
+    image: "./assets/BAIT.PNG", // صورة المشروع بأي لاحقة بتفضل ما بتفرق إذا كل ملف لاحقة شكل بس لازم ينذكر اسم الملف كاملا مع لاحقتو
+    tags: "BAC101, BMN202, GDE101, GMA205, IIS404, IIS405, IIS406, INT203, INT305, IOS203, IOS304, IOS305, ISE301, ISE302", //التاجات تبع المشروع بيطلعوا بالشكل #test #test2 #test3
+    link: "https://drive.google.com/drive/folders/1k55BTMsO3vK5L-p7_GOeenC1m0pF_xVz?usp=sharing", //رابط المشروع ضروري يبدا ب"https://"
+  },
+  
+
 ];
