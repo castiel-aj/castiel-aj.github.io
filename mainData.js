@@ -5,7 +5,7 @@ var mainData = {
   white_favicon: "./assets/favicon_white.png", // صورة الفافيكون البيضا بتطلع لما بكون الوضع الليلي مفعل
   title: "Cybersecurity Enthusiast", //لقبك الوظيفي بيطلع جنب عنون التاب
   email: "alijarkas0@gmail.com", //إيميلك
-  phone: "+963956914619", //رقمك هون
+  phone: "+971503714723", //رقمك هون
 };
 
 var links = [
