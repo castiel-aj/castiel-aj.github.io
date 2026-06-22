@@ -69,7 +69,7 @@ var repoData = [
     title: "Fiber Optic Networks", //عنوان المشروع
     description:
       " Fiber optics fundamentals: sources, detectors, WDM, splicing, connectors, POF, and FTTx network architectures.", //لمحة بسيطة 15 كلمة عن المشروع بتقدر تكتب أكتر بس بصير بينقرا بصعوبة
-    image: "./assets/Fiber-Optic-Icon.PNG", // صورة المشروع بأي لاحقة بتفضل ما بتفرق إذا كل ملف لاحقة شكل بس لازم ينذكر اسم الملف كاملا مع لاحقتو
+    image: "./assets/Fiber-Optic-Icon.jpg", // صورة المشروع بأي لاحقة بتفضل ما بتفرق إذا كل ملف لاحقة شكل بس لازم ينذكر اسم الملف كاملا مع لاحقتو
     tags: "Fiber Optic, ICT, Infrastructure, FTTx, FTTH, Fiber Projects, Fiber Planning, Fiber Design, Fiber Troubleshootung, DWDM", //التاجات تبع المشروع بيطلعوا بالشكل #test #test2 #test3
     link: "https://drive.google.com/file/d/1Og3ZNH2PVgcGEHCxqQ1x0a2qNF0D3675/view?usp=sharing", //رابط المشروع ضروري يبدا ب"https://"
   },
