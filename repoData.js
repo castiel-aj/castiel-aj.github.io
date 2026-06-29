@@ -52,7 +52,7 @@ var repoData = [
       "أساسيات في شبكات الإتصالات, مع تركيز على الإتصالات المستخدمة في المنظمات الدولية", //لمحة بسيطة 15 كلمة عن المشروع بتقدر تكتب أكتر بس بصير بينقرا بصعوبة
     image: "./assets/tele.png", // صورة المشروع بأي لاحقة بتفضل ما بتفرق إذا كل ملف لاحقة شكل بس لازم ينذكر اسم الملف كاملا مع لاحقتو
     tags: "radio, planning, operations, gsm, ict, telecommunications, vswr", //التاجات تبع المشروع بيطلعوا بالشكل #test #test2 #test3
-    link: "https://github.com/castiel-aj/Insight-of-Telecommunication-in-Organizations", //رابط المشروع ضروري يبدا ب"https://"
+    link: "https://drive.google.com/file/d/1yqFVTNcYJpqzxUrwAT5JbJARlaZcbTDS/view?usp=sharing", //رابط المشروع ضروري يبدا ب"https://"
   },
 
 
