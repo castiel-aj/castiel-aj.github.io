@@ -79,7 +79,7 @@ var repoData = [
     description:
       " Comprehensive CCNA guide covering networking fundamentals, protocols, switching, routing, security, automation, and Cisco configurations, combining insights from top courses like INE, CBT Nuggets, and NetworkChuck.", //لمحة بسيطة 15 كلمة عن المشروع بتقدر تكتب أكتر بس بصير بينقرا بصعوبة
     image: "./assets/CCNA - Website.png", // صورة المشروع بأي لاحقة بتفضل ما بتفرق إذا كل ملف لاحقة شكل بس لازم ينذكر اسم الملف كاملا مع لاحقتو
-    tags: "Fiber Optic, ICT, Infrastructure, FTTx, FTTH, Fiber Projects, Fiber Planning, Fiber Design, Fiber Troubleshootung, DWDM", //التاجات تبع المشروع بيطلعوا بالشكل #test #test2 #test3
+    tags: "CCNA, Networking, Cisco, Switching, Routing, Security, Automation, Labs", //التاجات تبع المشروع بيطلعوا بالشكل #test #test2 #test3
     link: "https://drive.google.com/file/d/1VOeyEk0vxaSkl5-PFa7iQeNWZZoASoAt/view?usp=sharing", //رابط المشروع ضروري يبدا ب"https://"
   },
   
