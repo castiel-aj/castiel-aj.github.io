@@ -2,7 +2,7 @@ var repoData = [
   {
     title: " Cybertalents - SOC Analyst - Writeups", //عنوان المشروع
     description:
-      " SOC Analyst Challenges are about providing hands-on experience on SOC Analyst related tasks and activities.", //لمحة بسيطة 15 كلمة عن المشروع بتقدر تكتب أكتر بس بصير بينقرا بصعوبة
+      " SOC Analyst Challenges are about providing hands-on experience on SOC Analyst-related tasks and activities.", //لمحة بسيطة 15 كلمة عن المشروع بتقدر تكتب أكتر بس بصير بينقرا بصعوبة
     image: "./assets/soc-analyst.jpg", // صورة المشروع بأي لاحقة بتفضل ما بتفرق إذا كل ملف لاحقة شكل بس لازم ينذكر اسم الملف كاملا مع لاحقتو
     tags: "SIEM, Splunk, SIEM Use Cases, EDR, Web Security Analysis, CVE, Digital Forensics, Email Analysis, Windows Logs & Events, Log Analysis", //التاجات تبع المشروع بيطلعوا بالشكل #test #test2 #test3
     link: "https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/tree/master/Certified%20SOC%20Analyst/Challenges", //رابط المشروع ضروري يبدا ب"https://"
@@ -11,7 +11,7 @@ var repoData = [
   {
     title: "Cybertalents - Threat Hunting - Writeups", //عنوان المشروع
     description:
-      "Threat Hunting Challenges are about providing insight on CTH tools and methodolgies.", //لمحة بسيطة 15 كلمة عن المشروع بتقدر تكتب أكتر بس بصير بينقرا بصعوبة
+      "Threat Hunting Challenges are about providing insight on CTH tools and methodologies.", //لمحة بسيطة 15 كلمة عن المشروع بتقدر تكتب أكتر بس بصير بينقرا بصعوبة
     image: "./assets/threat-hunter.jpg", // صورة المشروع بأي لاحقة بتفضل ما بتفرق إذا كل ملف لاحقة شكل بس لازم ينذكر اسم الملف كاملا مع لاحقتو
     tags: "APT, Hunting Windows Events & Logs, Hunting With Power Shell, MISP Threat Intellignece, Traffic Capturing, Network Security, Threat Hunting Termonologies, Digital Forensics, Zeek, Wireshark, IOC, Yara, Sigma", //التاجات تبع المشروع بيطلعوا بالشكل #test #test2 #test3
     link: "https://github.com/castiel-aj/Cybertalents-Challenges-Writeups/tree/master/Certified%20Threat%20Hunter/Challenges", //رابط المشروع ضروري يبدا ب"https://"
@@ -49,7 +49,7 @@ var repoData = [
   {
     title: "Telecommunications for Organizations", //عنوان المشروع
     description:
-      "أساسيات في شبكات الإتصالات, مع تركيز على الإتصالات المستخدمة في المنظمات الدولية", //لمحة بسيطة 15 كلمة عن المشروع بتقدر تكتب أكتر بس بصير بينقرا بصعوبة
+      "أساسيات في شبكات الإتصالات, مع تركيز على الإتصالات المستخدمة في المنظمات الدولية. النقاط الرئيسية في الملف: * المضخمّات (Amplifiers) * الربح و الإستطاعة (Antenna Gain) * إستخدامات الأمواج الكهرومغناطيسية * أنواع الإتصالات اللاسلكية * أنواع الهوائيات * خصائص الهوائيات * مكررات الإشارة (Repeaters) * أدوات تقييم الإشارة (مثل VSWR) * الكابلات و الموصلات * التعديل (Modulation)", //لمحة بسيطة 15 كلمة عن المشروع بتقدر تكتب أكتر بس بصير بينقرا بصعوبة
     image: "./assets/tele.png", // صورة المشروع بأي لاحقة بتفضل ما بتفرق إذا كل ملف لاحقة شكل بس لازم ينذكر اسم الملف كاملا مع لاحقتو
     tags: "radio, planning, operations, gsm, ict, telecommunications, vswr", //التاجات تبع المشروع بيطلعوا بالشكل #test #test2 #test3
     link: "https://drive.google.com/file/d/1yqFVTNcYJpqzxUrwAT5JbJARlaZcbTDS/view?usp=sharing", //رابط المشروع ضروري يبدا ب"https://"
