@@ -73,6 +73,15 @@ var repoData = [
     tags: "Fiber Optic, ICT, Infrastructure, FTTx, FTTH, Fiber Projects, Fiber Planning, Fiber Design, Fiber Troubleshootung, DWDM", //التاجات تبع المشروع بيطلعوا بالشكل #test #test2 #test3
     link: "https://drive.google.com/file/d/1Og3ZNH2PVgcGEHCxqQ1x0a2qNF0D3675/view?usp=sharing", //رابط المشروع ضروري يبدا ب"https://"
   },
+
+ {
+    title: "CCNA 200-301", //عنوان المشروع
+    description:
+      " Comprehensive CCNA guide covering networking fundamentals, protocols, switching, routing, security, automation, and Cisco configurations, combining insights from top courses like INE, CBT Nuggets, and NetworkChuck.", //لمحة بسيطة 15 كلمة عن المشروع بتقدر تكتب أكتر بس بصير بينقرا بصعوبة
+    image: "./assets/CCNA - Website.png", // صورة المشروع بأي لاحقة بتفضل ما بتفرق إذا كل ملف لاحقة شكل بس لازم ينذكر اسم الملف كاملا مع لاحقتو
+    tags: "Fiber Optic, ICT, Infrastructure, FTTx, FTTH, Fiber Projects, Fiber Planning, Fiber Design, Fiber Troubleshootung, DWDM", //التاجات تبع المشروع بيطلعوا بالشكل #test #test2 #test3
+    link: "https://drive.google.com/file/d/1VOeyEk0vxaSkl5-PFa7iQeNWZZoASoAt/view?usp=sharing", //رابط المشروع ضروري يبدا ب"https://"
+  },
   
 
 ];
